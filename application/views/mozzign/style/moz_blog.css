@@ -1,0 +1,43 @@
+.postlistWide
+{
+    text-align:center;
+    margin-top:20px;
+}
+.gallery_content
+{
+    text-align:center;
+    margin-bottom:0px;
+    margin-top: 20px;
+}
+
+#banner_home
+ {
+     width:700px;
+    height:385px;
+    float:left;
+    margin-left:45px;
+    margin-top:0px;
+    overflow:hidden;
+    outline:0px #63C dashed;
+}
+
+#calendar_container{
+    
+    width:930px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#gallery_caption {
+    color: #222;
+    float: left;
+    font-family: helvetica, arial, san-serif;
+    font-size: 9px;
+    font-style: normal;
+    letter-spacing: 1px;
+    line-height: 1.5em;
+    margin-bottom: 35px;
+    margin-top: 4px;
+    text-transform: uppercase;
+    width: 700px;
+}
